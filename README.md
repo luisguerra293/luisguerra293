@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Luís
+- 👋 Hi, I’m @Luís Guerra
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning PHP | JS
+- 🔨 I’m currently working PHP | JS | MariaDB/MySQL
